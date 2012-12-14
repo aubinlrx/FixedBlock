@@ -1,7 +1,9 @@
 FixedBlock
 ==========
 
-HTML5 to add fixed position on scroll
+**FixedBlock** est une library en html5 permettant d'ajouter dynamiquement une class à un élément du dom *onScroll* à la position Y de celui-ci.
+
+**Cas d'utilisation :** Les principaux cas d'utilisation de cette library sont pour ajouter un menu en *position : fixe*.
 
 ##Library 
 
@@ -16,5 +18,5 @@ A la fin de votre page :
 ```html
 <script type="text/javascript">
 	new FixedBlock('element-id', 'fixed-class');
-</script
+</script>
 ```
