@@ -3,11 +3,11 @@ FixedBlock
 
 **FixedBlock** est une librarie en html5 permettant d'ajouter dynamiquement une *classe css* à un élément du dom *onScroll* à la position Y de celui-ci.
 
-**Cas d'utilisation :** Cette librarie peut être utilisée afin de rendre statique un menu quand l'utilisateur atteint sa position vertical lors du défilement de la page. Il est possible de voir ce type d'interaction dans la majorité des documentations. (Ex: twitter.github.com/bootstrap)
+**Cas d'utilisation :** Cette librairie peut être utilisée afin de rendre statique un menu quand l'utilisateur atteint sa position vertical lors du défilement de la page. Il est possible de voir ce type d'interaction dans la majorité des documentations d'API. (Ex: twitter.github.com/bootstrap)
 
-##Librarie
+##Librairie
 
-Cette librarie peut être très simplement implémentée à tous sites. Pour cela importer le code javascript comme suit :
+Cette librairie peut être très simplement implémentée à une application web. Pour cela importer le code javascript comme suit :
 
 Dans : ```<head>```
 ```html
@@ -24,7 +24,7 @@ A la fin de votre page :
 
 ##Compatibilités
 
-La librairy est compatible pour les navigateurs suivants :
+La librairie est compatible pour les navigateurs suivants :
 * Firefox 
 * Chrome 
 * Opera 
