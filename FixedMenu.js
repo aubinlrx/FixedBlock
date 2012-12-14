@@ -1,4 +1,4 @@
-var FixedMenu = function(div, menuClass) {
+var FixedBlock = function(div, menuClass) {
 	var self = this;
 	this.menu = null;
 	this.menuClass = null;
